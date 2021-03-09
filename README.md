@@ -1,5 +1,7 @@
 # CMTK Data
 
+[![DOI](https://zenodo.org/badge/343370968.svg)](https://zenodo.org/badge/latestdoi/343370968)
+
 ### Overview
 
 Datalad dataset that stores all data resources of the
