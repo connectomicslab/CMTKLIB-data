@@ -21,6 +21,13 @@ Datalad dataset that stores all data resources of the
 
 Work supported by the [Sinergia SNFNS-170873 Grant](http://p3.snf.ch/Project-170873).
 
+### Citing
+
+If you use CMTKLIB-data in your work, please cite it:
+
+> Tourbier, S., Aleman-Gomez, Y., Mullier, Emeline, Griffa, A., Bach Cuadra, M., & Hagmann, P.. (2021). connectomicslab/CMTKLIB-data: CMTKLIB-data v1.0 (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4593026
+
+
 ### License
 This dataset is licensed under CC BY 4.0. See [license](LICENSE) for more details.
 
