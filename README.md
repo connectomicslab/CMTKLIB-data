@@ -1,6 +1,6 @@
 # Connectome Mapping TooKit LIBrary (CMTKLIB) Data Resources
 
-[![DOI](https://zenodo.org/badge/346296343.svg)](https://zenodo.org/badge/latestdoi/346296343)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4593025.svg)](https://doi.org/10.5281/zenodo.4593025)
 
 ### Overview
 
@@ -27,7 +27,7 @@ Work supported by the [Sinergia SNFNS-170873 Grant](http://p3.snf.ch/Project-170
 
 CMTKLIB-data is published to Zenodo. If you use CMTKLIB-data in your work, please acknowledge it with the following citation:
 
-> Tourbier, S., Aleman-Gomez, Y., Mullier, Emeline, Griffa, A., Bach Cuadra, M., & Hagmann, P.. (2021). connectomicslab/CMTKLIB-data: CMTKLIB-data v1.0 (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4593026
+> Tourbier, S., Aleman-Gomez, Y., Mullier, Emeline, Griffa, A., Bach Cuadra, M., & Hagmann, P.. (2021). connectomicslab/CMTKLIB-data: CMTKLIB-data v1.X (Version v1.X) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4593025
 
 
 ### License
