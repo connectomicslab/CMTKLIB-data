@@ -1,5 +1,7 @@
 # Connectome Mapping TooKit LIBrary (CMTKLIB) Data Resources
 
+[![DOI](https://zenodo.org/badge/346296343.svg)](https://zenodo.org/badge/latestdoi/346296343)
+
 ### Overview
 
 Datalad dataset that stores all data resources of the
