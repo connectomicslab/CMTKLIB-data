@@ -1,6 +1,4 @@
-# CMTK Data
-
-[![DOI](https://zenodo.org/badge/343370968.svg)](https://zenodo.org/badge/latestdoi/343370968)
+# Connectome Mapping TooKit LIBrary (CMTKLIB) Data Resources
 
 ### Overview
 
