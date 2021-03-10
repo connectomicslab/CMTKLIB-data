@@ -4,7 +4,7 @@
 
 ### Overview
 
-Datalad dataset that stores all data resources of the
+Datalad dataset that provides all data resources of the
 `cmtklib` module of Connectome Mapper 3 (https://github.com/connectomicslab/connectomemapper3).
 
 * `colortable_and_gcs` stores all data resources (gcs atlas files and colortable) for Lausanne 2008 parcellation
@@ -16,6 +16,8 @@ Datalad dataset that stores all data resources of the
 
 * `segmentation` provides templates for brain extraction (ANTS template IXI and ANTS MICCAI2012 multi-atlas challenge)
   and for thalamic nuclei segmentation
+
+Git-annexed data are hosted @ https://osf.io/5hy42/.
  
 ### Funding
 
